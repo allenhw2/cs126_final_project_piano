@@ -20,3 +20,8 @@
     I moved it. Things to do:
     -[ ] Fix Bugs with the ImGui Window
     -[ ] Set up other components of the UI
+    
+ - **4/29/20** I fixed the problem with the trailing windows in the imgui window. I established the initial classes that
+    I will use for the piano and its notes. I need to think of a way to use the UI to make the piano appear and animated.
+    I might as a window that lets you adjust the octave, but that causes a lot of problems. I added the keyboard playing 
+    functionality though. It's very choppy but it's there. 
